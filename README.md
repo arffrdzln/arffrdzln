@@ -2,6 +2,4 @@
 
 ### `$ whoami`
 
-> My name is Ariff @ Rydzze 😁
-> CS student majoring in A.I. 💻
-> Rookie CTF player 😼
+> <br> My name is Ariff @ Rydzze 😁 </br> <br> CS student majoring in A.I. 💻 </br> <br> Rookie CTF player 😼 </br>
